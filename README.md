@@ -1,4 +1,4 @@
-# github-upload
+# meteor-from-home
 - This is a program to find the distance between the meteors which have fallen so far from your home.
 - Meteors data was taken from nasa repository.
 
